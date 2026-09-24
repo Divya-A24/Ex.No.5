@@ -2,7 +2,7 @@
 
 ## Comparative Analysis of Different Types of Prompting Patterns with Various Test Scenarios
 
-``` GOPIKA DHARSHINI.N | 212225230083 ```
+``` DIVYA.A | 212225230063 ```
 ---
 
 ## AIM
